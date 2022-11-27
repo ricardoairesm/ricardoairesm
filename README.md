@@ -29,8 +29,7 @@ hi, i'm Ricardo Barbosa, currently learning to be a Full Stack developer with [@
 
 
 
-
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ricardoairesm&show_icons=true&theme=gotham" alt="ricardoairesm" />
+<p align="left"> <img  width = "400" src="https://github-readme-stats.vercel.app/api?username=ricardoairesm&show_icons=true&theme=gotham" alt="ricardoairesm" />
 
